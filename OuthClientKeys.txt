@@ -1,0 +1,12 @@
+
+C:\xampp\htdocs\Vueapp>php artisan passport:install
+Encryption keys generated successfully.
+Personal access client created successfully.
+
+
+Client ID: 1
+Client Secret: 73vaKWWqKdlyxg1xleiX8NlJzotLZJ9yBQ1cP6dH
+Password grant client created successfully.
+
+Client ID: 2
+Client Secret: JCyzb8xMxPpk1aoxcBdDMlSEwvkpfU0lNjtRI4Hx
